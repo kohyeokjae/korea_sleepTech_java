@@ -1,4 +1,4 @@
-package Chapter12.model;
+package chapter12.model;
 
 /*
  	Boook 클래스

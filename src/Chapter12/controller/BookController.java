@@ -1,9 +1,9 @@
-package Chapter12.controller;
+package chapter12.controller;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import Chapter12.model.Book;
+import chapter12.model.Book;
 
 public class BookController {
 	private List<Book> books;

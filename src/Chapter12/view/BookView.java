@@ -1,10 +1,10 @@
-package Chapter12.view;
+package chapter12.view;
 
 import java.util.List;
 import java.util.Scanner;
 
-import Chapter12.controller.BookController;
-import Chapter12.model.Book;
+import chapter12.controller.BookController;
+import chapter12.model.Book;
 
 public class BookView {
 	private final BookController bookController;

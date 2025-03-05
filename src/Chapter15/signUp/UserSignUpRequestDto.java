@@ -1,4 +1,4 @@
-package Chapter15.signUp;
+package chapter15.signUp;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

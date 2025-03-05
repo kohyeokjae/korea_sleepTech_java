@@ -1,4 +1,4 @@
-package Chapter12;
+package chapter12;
 
 // === MVC 패턴 ===
 // : Model(모델), View(뷰), Controller(컨트롤러)

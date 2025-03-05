@@ -1,6 +1,6 @@
-package Chapter12;
+package chapter12;
 
-import Chapter12.view.BookView;
+import chapter12.view.BookView;
 
 // << 도서 관리 시스템 >>
 
