@@ -1,4 +1,4 @@
-package Chapter15.boardApp.entity;
+package chapter15.boardApp.entity;
 
 import lombok.Data;
 

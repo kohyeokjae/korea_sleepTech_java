@@ -1,10 +1,10 @@
-package Chapter12.view;
+package chapter12.view;
 
 import java.util.List;
 import java.util.Scanner;
 
-import Chapter12.controller.StudentController;
-import Chapter12.model.Student;
+import chapter12.controller.StudentController;
+import chapter12.model.Student;
 
 public class StudentView {
 	private final Scanner sc;

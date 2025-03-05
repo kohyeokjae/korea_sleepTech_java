@@ -1,10 +1,10 @@
-package Chapter15.boardApp.repository;
+package chapter15.boardApp.repository;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import Chapter15.boardApp.entity.Board;
+import chapter15.boardApp.entity.Board;
 
 public class BoardRepository {
 	private final List<Board> boardStorage = new ArrayList<Board>();

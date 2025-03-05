@@ -1,6 +1,6 @@
-package Chapter15.boardApp.dto;
+package chapter15.boardApp.dto;
 
-import Chapter15.boardApp.entity.Board;
+import chapter15.boardApp.entity.Board;
 import lombok.Getter;
 import lombok.ToString;
 

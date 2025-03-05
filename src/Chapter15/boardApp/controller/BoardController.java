@@ -1,11 +1,11 @@
-package Chapter15.boardApp.controller;
+package chapter15.boardApp.controller;
 
 import java.util.List;
 
-import Chapter15.boardApp.dto.BoardRequestDto;
-import Chapter15.boardApp.dto.BoardResponseDto;
-import Chapter15.boardApp.service.BoardService;
-import Chapter15.boardApp.service.BoardServiceImpl;
+import chapter15.boardApp.dto.BoardRequestDto;
+import chapter15.boardApp.dto.BoardResponseDto;
+import chapter15.boardApp.service.BoardService;
+import chapter15.boardApp.service.BoardServiceImpl;
 
 public class BoardController {
 	private final BoardService boardService;

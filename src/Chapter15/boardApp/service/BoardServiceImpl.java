@@ -1,13 +1,13 @@
-package Chapter15.boardApp.service;
+package chapter15.boardApp.service;
 
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import Chapter15.boardApp.dto.BoardRequestDto;
-import Chapter15.boardApp.dto.BoardResponseDto;
-import Chapter15.boardApp.entity.Board;
-import Chapter15.boardApp.repository.BoardRepository;
+import chapter15.boardApp.dto.BoardRequestDto;
+import chapter15.boardApp.dto.BoardResponseDto;
+import chapter15.boardApp.entity.Board;
+import chapter15.boardApp.repository.BoardRepository;
 
 public class BoardServiceImpl implements BoardService {
 	private final BoardRepository repository;

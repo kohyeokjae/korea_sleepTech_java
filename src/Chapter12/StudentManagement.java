@@ -1,7 +1,7 @@
-package Chapter12;
+package chapter12;
 
-import Chapter12.view.StudentView;
 import chapter10.practice02.Main;
+import chapter12.view.StudentView;
 
 /*
  	== 학생 관리 시스템 ==

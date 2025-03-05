@@ -1,11 +1,11 @@
-package Chapter15.boardApp.view;
+package chapter15.boardApp.view;
 
 import java.util.List;
 import java.util.Scanner;
 
-import Chapter15.boardApp.controller.BoardController;
-import Chapter15.boardApp.dto.BoardRequestDto;
-import Chapter15.boardApp.dto.BoardResponseDto;
+import chapter15.boardApp.controller.BoardController;
+import chapter15.boardApp.dto.BoardRequestDto;
+import chapter15.boardApp.dto.BoardResponseDto;
 
 /*
  	=== 게시글 관리 시스템 ===

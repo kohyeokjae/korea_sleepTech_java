@@ -1,9 +1,9 @@
-package Chapter15.boardApp.service;
+package chapter15.boardApp.service;
 
 import java.util.List;
 
-import Chapter15.boardApp.dto.BoardRequestDto;
-import Chapter15.boardApp.dto.BoardResponseDto;
+import chapter15.boardApp.dto.BoardRequestDto;
+import chapter15.boardApp.dto.BoardResponseDto;
 
 public interface BoardService {
 	// CR(전체/단건)UD
